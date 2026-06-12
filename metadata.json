@@ -1,0 +1,6 @@
+{
+  "name": "ArchiTask Pro",
+  "description": "Aplikasi pelacak progres tugas arsitektur modern dengan asisten analisis PDF bertenaga AI Gemini, pengingat otomatis, sinkronisasi cloud, enkripsi ujung-ke-ujung (E2EE), dan dasbor produktivitas interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
